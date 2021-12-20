@@ -1,0 +1,28 @@
+.div1{
+    background-color: aliceblue;
+    color:crimson;
+}
+body{
+ background: lavender;
+ font-family: 'Comic Neue', cursive;
+}
+.maindiv button{
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+.Alienimg{
+    width: 350px;
+    height: 350px;
+}
+.whomadeit{
+    position:fixed;
+    color: azure;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: mediumpurple;
+    line-height: 3;
+    text-shadow: 5px 5px 5px lightgoldenrodyellow;
+}
